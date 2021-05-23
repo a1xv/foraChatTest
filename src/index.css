@@ -109,4 +109,15 @@
   width: 100%;
   margin-bottom: 10px;
   resize: none;
+  border: 1px solid #ececff;
+  border-radius: 5px;
+}
+
+.chat-messages form button {
+  color: #fff;
+  background-color: #8f00ff;
+  padding: 8px 45px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
 }
